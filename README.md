@@ -8,7 +8,12 @@ Some key concepts that are used are Exploratory Data analysis, feature engineeri
 
 Data Analysis Questions answered in this project:
 Question 1: Income seems to have a moderate relationship with account status, with those who closed their accounts having slightly lower average income.
+
 Question 2: The average utilization ratio is significantly higher for closed accounts, indicating higher credit usage before closure.
+
 Question 3: While income and credit limit distributions overlap, closed accounts tend to have lower overall limits.
+
 Question 4: Education level shows a potential association with account status, with "Graduate" customers more likely to remain active and "Unknown" more likely to close.
+
 Question 5: Closed accounts tend to have lower average and maximum total spend compared to active accounts.
+
