@@ -7,6 +7,7 @@ The project consists of various data analysis stages like collection, gathering,
 Some key concepts that are used are Exploratory Data analysis, feature engineering, Root cause analysis, Machine learning (Classifications), Data visualizations, and data-driven decision-making. 
 
 Data Analysis Questions answered in this project:
+
 Question 1: Income seems to have a moderate relationship with account status, with those who closed their accounts having slightly lower average income.
 
 Question 2: The average utilization ratio is significantly higher for closed accounts, indicating higher credit usage before closure.
